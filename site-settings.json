@@ -11,69 +11,59 @@
 		"error_message": "Something went wrong. Please try again. If the problem persists, you can contact me."
 	},
 	"newsletter_section": {
-		"enable": true,
-		"title": "Join our newsletter 🎉",
-		"description": "Read and share new perspectives on just about any topic. Everyone’s welcome.",
-		"right_image": "/images/SVG-subcribe2.png",
-		"features_list": ["Create a free account.", "Write your stories."]
+    "enable": true,
+    "title": "Join our newsletter 🎉",
+    "description": "Read and new perspectives on just about Nutrition. Everyone’s welcome.",
+    "right_image": "/images/SVG-subcribe2.png",
+    "features_list": ["Create a free account.", "Write your stories."]
 	},
 	"top_banner": {
 		"enable": true,
-		"description": "-50% Intro price for the next 72 hours only!.",
+		"description": "Visit our main site to see a range of nutrional services!",
 		"end_link": {
-			"url": "https://themeforest.net/item/ncmaz-nextjs-headless-wordpress-blog-magazine/47815656",
-			"text": "Buy now  →",
+			"url": "https://nutritherapy.co.ke/services/",
+			"text": "Visit Now  →",
 			"new_tab": true
 		}
 	},
 	"top_category_section": {
 		"enable": true,
-		"title": "Discover top 10 categories",
+		"title": "Discover top categories",
 		"sub_title": "Let's explore the most popular categories"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
-		"site_email": "Your Email",
-		"site_phone": "Your Phone",
-		"site_address": "Your Address",
-		"site_city": "Your City",
-		"site_state": "Your State",
-		"site_zip": "Your Zip",
-		"site_country": "Your Country",
-		"site_url": "https://www.yoursite.com",
-		"site_logo": "/logo.png",
-		"site_logo_light": "/logo-light.png",
-		"site_favicon": "/favicon.png"
-	},
+    "site_title": "Nutritherapy journal",
+    "site_description": "Join the conversation about food, health, and the transformative power of personalized nutrition.",
+    "site_keywords": "Nutritherapy solutions, licensed clinical and renal nutritionist ",
+    "site_author": "loureen Moraa",
+    "site_email": "hello@nutritherapy.co.ke",
+    "site_phone": "0706247604",
+    "site_address": "Westlands, Kenya",
+    "site_city": "Nairobi",
+    "site_state": "Nairobi",
+    "site_zip": "0001",
+    "site_country": "Kenya",
+    "site_url": "https://nutritherapy.co.ke/",
+    "site_logo": "/logo.png",
+    "site_logo_light": "/logo-light.png",
+    "site_favicon": "/favicon.png"
+  },
 	"site_socials": [
-		{
-			"name": "facebook",
-			"url": "https://www.facebook.com/yourfacebookpage",
-			"icon": "/images/socials/facebook.svg",
-			"description": "Follow us on Facebook"
-		},
-		{
-			"name": "twitter",
-			"url": "https://twitter.com/yourtwitterpage",
-			"icon": "/images/socials/x-twitter.svg",
-			"description": "Follow us on Twitter"
-		},
-		{
-			"name": "github",
-			"url": "https://www.github.com/yourmediumpage",
-			"icon": "/images/socials/github.svg",
-			"description": "Follow us on Github"
-		},
-		{
-			"name": "tiktok",
-			"url": "https://www.tiktok.com/yourtiktokpage",
-			"icon": "/images/socials/tiktok.svg",
-			"description": "Follow us on Tiktok"
-		}
-	],
+    {
+      "name": "facebook",
+      "url": "https://m.facebook.com/p/Nutri-Therapy-Solutions-61565443181485/",
+      "icon": "/images/socials/facebook.svg",
+      "description": "Follow us on Facebook"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/nutrie_therapy_solutions",
+      "icon": "/images/socials/x-twitter.svg",
+      "description": "Follow us on Instagram"
+    }
+
+    
+  ],
 	"site_header": {
 		"desktop_header": {
 			"header_style": "style3",
@@ -82,7 +72,7 @@
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2024 BooliiTheme Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "© 2025 Nutritherapy Solutions. All rights reserved."
 	},
 	"single_page": {
 		"show_view_cout": true,
@@ -94,16 +84,16 @@
 			"title": "Recommended searches",
 			"items": [
 				{
-					"title": "Programming",
-					"url": "/search/posts/programming"
+					"title": "Diet Plans",
+					"url": "/search/posts/diet"
 				},
 				{
-					"title": "Design",
-					"url": "/search/posts/design"
+					"title": "Weight Loss",
+					"url": "/search/posts/weight"
 				},
 				{
-					"title": "Technology",
-					"url": "/search/posts/technology"
+					"title": "General Health",
+					"url": "/search/posts/general"
 				}
 			]
 		},
@@ -123,7 +113,7 @@
 		"show_comment_count": true
 	},
 	"submissions-settings": {
-		"enable": true,
+		"enable": false,
 		"max_categories_allowed": 3,
 		"max_tags_allowed": 5,
 		"allow_upload_media": true,
@@ -182,24 +172,24 @@
 		"title": "Lost your password?",
 		"sub_title": "Enter your email below to reset your password.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Welcome, stranger, to our humble abode. May your stay be filled with warmth and joy.",
+			"author": "Loureen Moraa"
 		}
 	},
 	"signUp_page": {
 		"title": "Create an account",
 		"sub_title": "Enter your email below to create your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Welcome, stranger, to our humble abode. May your stay be filled with warmth and joy.",
+			"author": "Loureen Moraa"
 		}
 	},
 	"signIn_page": {
 		"title": "Sign in to your account",
 		"sub_title": "Enter your email below to sign in to your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Welcome, stranger, to our humble abode. May your stay be filled with warmth and joy.",
+			"author": "Loreen Moraa"
 		},
 		"lost_password": {
 			"is_use_lostpassword_default_of_wp": false,
@@ -227,17 +217,17 @@
 			{
 				"name": "address",
 				"title": "🚀 ADDRESS",
-				"desc": "123 Main Street, New York, NY 10001"
+				"desc": "Nairobi, Kenya"
 			},
 			{
 				"name": "email",
 				"title": "💌 EMAIL",
-				"desc": "example@example.com"
+				"desc": "Hello@nutritherapy.com"
 			},
 			{
 				"name": "phone",
 				"title": "☎️ PHONE",
-				"desc": "+88 123 456 789"
+				"desc": "+254 706 247 604"
 			},
 			{
 				"name": "working_hours",
@@ -254,10 +244,10 @@
 		"enable": true,
 		"uri": "/documents",
 		"title": "Documents",
-		"sub_title": "Read and share new perspectives on just about any topic. Everyone’s welcome."
+		"sub_title": "Read and share new perspectives on Nutrition. Everyone’s welcome."
 	},
 	"cookies_policy_page": {
-		"uri": "#"
+		"uri": "https://nutritherapy.co.ke/privacy-policy/"
 	},
 	"privacy_policy_page": {
 		"uri": "/privacy-policy",
