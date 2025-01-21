@@ -3,38 +3,38 @@
 // THEME PALETTE 10 indigo-coolGrey ==========================================
 :root {
   /* PRIMARY COLOR */
-  --c-primary-50: 248, 250, 255; 
-  --c-primary-100: 238, 242, 255;
-  --c-primary-200: 224, 231, 255;
-  --c-primary-300: 199, 210, 254;
-  --c-primary-400: 165, 180, 252;
-  --c-primary-500: 129, 140, 248; 
-  --c-primary-600: 99, 102, 241;
-  --c-primary-700: 79, 70, 229;
-  --c-primary-800: 67, 56, 202;
-  --c-primary-900: 55, 48, 163;
+  --c-primary-50: 236, 248, 236;
+  --c-primary-100: 217, 240, 217;
+  --c-primary-200: 184, 225, 184;
+  --c-primary-300: 152, 210, 152;
+  --c-primary-400: 132, 200, 132;
+  --c-primary-500: 116, 188, 100; /* Main site color */
+  --c-primary-600: 98, 159, 84;
+  --c-primary-700: 79, 127, 67;
+  --c-primary-800: 59, 94, 50;
+  --c-primary-900: 48, 77, 41;
 
   /* SECONDARY COLOR */
-  --c-secondary-50: 240, 253, 250;
-  --c-secondary-100: 204, 251, 241;
-  --c-secondary-200: 153, 246, 228;
-  --c-secondary-300: 116, 236, 215; // Adjusted for smoother transition
-  --c-secondary-400: 82, 219, 196; 
-  --c-secondary-500: 45, 212, 191; 
-  --c-secondary-600: 20, 184, 166;
-  --c-secondary-700: 13, 148, 136;
-  --c-secondary-800: 15, 118, 110;
-  --c-secondary-900: 17, 94, 89;
+  --c-secondary-50: 240, 250, 240;
+  --c-secondary-100: 223, 245, 223;
+  --c-secondary-200: 191, 232, 191;
+  --c-secondary-300: 158, 218, 158;
+  --c-secondary-400: 136, 209, 136;
+  --c-secondary-500: 116, 200, 100;
+  --c-secondary-600: 93, 160, 80;
+  --c-secondary-700: 75, 128, 65;
+  --c-secondary-800: 57, 97, 49;
+  --c-secondary-900: 47, 79, 40;
 
   /* NEUTRAL COLOR */
-  --c-neutral-50: 249, 250, 251;
-  --c-neutral-100: 243, 244, 246;
-  --c-neutral-200: 229, 231, 235;
-  --c-neutral-300: 209, 213, 219;
-  --c-neutral-400: 156, 163, 175;
-  --c-neutral-500: 107, 114, 128;
-  --c-neutral-600: 75, 85, 99;
-  --c-neutral-700: 55, 65, 81;
-  --c-neutral-800: 31, 41, 55;
-  --c-neutral-900: 17, 24, 39;
+  --c-neutral-50: 249, 250, 249;
+  --c-neutral-100: 244, 245, 244;
+  --c-neutral-200: 230, 232, 230;
+  --c-neutral-300: 210, 213, 210;
+  --c-neutral-400: 158, 163, 158;
+  --c-neutral-500: 116, 121, 116;
+  --c-neutral-600: 93, 97, 93;
+  --c-neutral-700: 75, 79, 75;
+  --c-neutral-800: 57, 61, 57;
+  --c-neutral-900: 47, 50, 47;
 }
