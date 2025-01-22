@@ -66,9 +66,9 @@ export default class Document extends NextDocument {
 						color="#38bdf8"
 					/>
 					<link rel="shortcut icon" href={v('/favicons/favicon.ico')} />
-					<meta name="apple-mobile-web-app-title" content="Ncmaz Nextjs" />
-					<meta name="application-name" content="Ncmaz Nextjs" />
-					<meta name="theme-color" content="#172A53" />
+					<meta name="apple-mobile-web-app-title" content="Nutritherapy Journal" />
+					<meta name="application-name" content="Nutritherapy Journal" />
+					<meta name="theme-color" content="#4c7c44" />
 					<script
 						dangerouslySetInnerHTML={{
 							__html: `
