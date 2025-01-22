@@ -15,7 +15,7 @@
     "title": "Join our newsletter 🎉",
     "description": "Read and new perspectives on just about Nutrition. Everyone’s welcome.",
     "right_image": "/images/SVG-subcribe2.png",
-    "features_list": ["Create a free account.", "Write your stories."]
+    "features_list": ["Create a free account.", "Save our stories."]
 	},
 	"top_banner": {
 		"enable": true,
@@ -198,7 +198,7 @@
 		}
 	},
 	"mobile_nav_sidebar": {
-		"description": "Discover the most outstanding articles on all topics of life. Write your stories and share them with the community. "
+		"description": "Discover the most outstanding articles on all topics of Nutrition "
 	},
 	"help_page": {
 		"uri": "/helps",
