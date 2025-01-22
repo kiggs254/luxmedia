@@ -109,7 +109,7 @@
 		"show_top_categories": true
 	},
 	"post_card": {
-		"show_view_cout": false,
+		"show_view_cout": true,
 		"show_comment_count": true
 	},
 	"submissions-settings": {
@@ -241,7 +241,7 @@
 		]
 	},
 	"document_page": {
-		"enable": true,
+		"enable": false,
 		"uri": "/documents",
 		"title": "Documents",
 		"sub_title": "Read and share new perspectives on Nutrition. Everyone’s welcome."
@@ -259,7 +259,7 @@
 	},
 	"discussion_settings": {
 		"enable": true,
-		"must_logged_in_to_comment": true
+		"must_logged_in_to_comment": false
 	},
 	"general_settings": {
 		"timeFormat": "h:mm a",
