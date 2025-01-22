@@ -13,9 +13,9 @@
 	"newsletter_section": {
     "enable": true,
     "title": "Join our newsletter 🎉",
-    "description": "Read and new perspectives on just about Nutrition. Everyone’s welcome.",
+    "description": "Get notified when we publish something new, and unsubscribe at any time.",
     "right_image": "/images/SVG-subcribe2.png",
-    "features_list": ["Create a free account.", "Save our stories."]
+    "features_list": ["Get updates on new posts.", "Get offers for our services."]
 	},
 	"top_banner": {
 		"enable": true,
