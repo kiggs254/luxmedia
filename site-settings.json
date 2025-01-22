@@ -66,8 +66,8 @@
   ],
 	"site_header": {
 		"desktop_header": {
-			"header_style": "style3",
-			"hide_create_button": false,
+			"header_style": "style2",
+			"hide_create_button": true,
 			"hide_dark_mode_switch": false
 		}
 	},
@@ -198,12 +198,12 @@
 		}
 	},
 	"mobile_nav_sidebar": {
-		"description": "Discover the most outstanding articles on all topics of Nutrition "
+		"description": "Discover the most outstanding articles on all topics of Nutrition"
 	},
 	"help_page": {
 		"uri": "/helps",
 		"title": "Helps",
-		"sub_title": "Read and share new perspectives on just about any topic. Everyone’s welcome."
+		"sub_title": "Discover the most outstanding articles on all topics of Nutrition"
 	},
 	"contact_page": {
 		"enable": true,
